@@ -2,7 +2,7 @@
 [ROM][9.0.0]ScorpionROM v2.0[device_name]
 
 # Header Image #
-tbd
+![alt text](https://github.com/ScorpionRom/forum_template/blob/master/scorp_logo1.png "ScorpionROM v2.0")
 
 # Download #
 ROM
