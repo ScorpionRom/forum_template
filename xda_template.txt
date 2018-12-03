@@ -1,0 +1,19 @@
+# ROM Title #
+[ROM][9.0.0]ScorpionROM v2.0[device_name]
+
+# Header Image #
+tbd
+
+# Download #
+ROM
+TWRP
+
+# Install #
+add_install_info
+
+# Credits #
+Credits:
+@BlackScorpion3 
+@NepoRood
+The hard working teams at DU, GZOSP, Invictrix, GZOSP and Lineage
+And anyone I forgot...
