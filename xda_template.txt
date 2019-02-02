@@ -18,6 +18,7 @@
 
 # Header Image, this should be placed at the top of the page #
 [img]https://scorpionrom.com/img/scorp_logo1.png[\img]
+[CENTER][B][I][COLOR="red"][SIZE="7"]Feel The Sting![/SIZE][/COLOR][/I][/B][/CENTER]
 
 [SIZE="4"][COLOR="red"][B][U]Downloads[/U]:[/B][/COLOR][/SIZE]
 [URL="link_to_rom_download"]ROM[/URL]
