@@ -1,19 +1,119 @@
+################################################################################
+#                                                                              #
+# The below is just a guideline, substitute for your devcie in                 #
+# all the necessary places.                                                    #
+#                                                                              #
+# Please be sure to include all the links to ScorpionROM and the Credits       #
+#                                                                              # 
+# Just copy every thing that isn't between the "#"                             #
+#                                                                              #
+################################################################################
+
+##########
+# POST 1 #
+##########
+
 # ROM Title #
-[ROM][9.0.0]ScorpionROM v2.0[device_name]
+[ROM][9.0]ScorpionROM v2.2[your_device]
 
-# Header Image #
-![alt text](https://github.com/ScorpionRom/forum_template/blob/master/scorp_logo1.png "ScorpionROM v2.0")
+# Header Image, this should be placed at the top of the page #
+[img]https://scorpionrom.com/img/scorp_logo1.png[\img]
 
-# Download #
-ROM
-TWRP
+[COLOR="red"][B][U]Downloads[/U]:[/B][/COLOR]
+[URL="link_to_rom_download"]ROM[/URL]
+[URL="link_to_recovery_download"]TWRP[/URL]
 
-# Install #
+See [B][U]Additional Info[/U][/B] below for more information regarding GApps and ROM features.
+
+[COLOR="red"][B][U]Installation[/U]:[/B][/COLOR]
 add_install_info
 
-# Credits #
-Credits:
-@BlackScorpion3 
+# Kernel Source (Must be included) #
+[COLOR="red"][B][U]Kernel Source[/U]:[/B][/COLOR]
+[URL="link_to_kernel_source"]Bluecross Kernel[/URL]
+
+
+
+##########
+# POST 2 #
+##########
+
+# Thread Title #
+Additional Info
+
+This rom is not meant to be the most feature filled, nor do we claim it is the fastest, or most streamlined. This is just a fun project for us to release our daily irritability.
+
+[COLOR="red"][B][U]GApps[/U]:[/B][/COLOR]
+# Google Apps are included   #
+# Or post flash instructions #
+
+[COLOR="red"][B][U]Features[/U]:[/B][/COLOR]
+[HIDE]
+[COLOR="red"][B][U]Buttons[/U]:[/B][/COLOR]
+Hide the Navbar (Gestures)
+Swap Recent and Back Hardware keys (if supported by device)
+Navbar button Customization
+Accidental Touch
+Show Arrow keys while typing
+Pulse
+
+[COLOR="red"][B][U]Gestures[/U]:[/B][/COLOR]
+AOSP Gestures
+3 Finger Swipe for Screenshot
+OP Style Navigation Gestures
+
+[COLOR="red"][B][U]Lock Screen[/U]:[/B][/COLOR]
+Shortcuts
+Fingerprint instant unlock
+Face auto unlock
+Lockscreen Charging info
+Full-screen media cover art
+
+[COLOR="red"][B][U]Notifications[/U]:[/B][/COLOR]
+Heads up
+-time out
+-snooze timer
+-blacklist
+Battery light customization (if supported by device)
+In-call Vibration options
+
+[COLOR="red"][B][U]Power Menu[/U]:[/B][/COLOR]
+Restart
+Advanced Restart
+Screenshot
+
+[COLOR="red"][B][U]Quick Settings[/U]:[/B][/COLOR]
+Brightness slider position (top/bottom)
+QS Rows and Columns
+Qucik QS pull down (left/right)
+QS footer (enable/disable)
+
+[COLOR="red"][B][U]Status Bar[/U]:[/B][/COLOR]
+Choose Icons
+Battery Bar
+Brightness Control
+Clock Options
+Battery Options
+VoLTE Icon
+
+[COLOR="red"][B][U]Misc[/U]:[/B][/COLOR]
+Accent Colors (Fruity Pebbles v2.0)
+Font Service
+QS Tile Styles
+Wake on Charge
+Vibrate on Plug
+[/HIDE]
+
+[COLOR="red"][B][U]Working[/U]:[/B][/COLOR]
+# list_working_features
+
+[COLOR="red"][B][U]Not Working[/U]:[/B][/COLOR]
+# list_non_working_features
+
+Join us on Telegram for the latest news and discussion: [URL="https://t.me/joinchat/E4aIi1EAt2_6Wsl5I6UhIQ"]Link[/URL]
+
+[COLOR="red"][B][U]Credits[/U]:[/B][/COLOR]
+@Blackscorpion3
 @NepoRood
-The hard working teams at DU, GZOSP, Invictrix, GZOSP and Lineage
+The hard working teams at DU, GZOSP, Invictrix, and Lineage
 And anyone I forgot...
