@@ -14,23 +14,23 @@
 ##########
 
 # ROM Title #
-[ROM][9.0]ScorpionROM v2.2[your_device]
+[ROM][9.0]ScorpionROM v2.2[device_name][device_codename]
 
 # Header Image, this should be placed at the top of the page #
 [img]https://scorpionrom.com/img/scorp_logo1.png[\img]
 
-[COLOR="red"][B][U]Downloads[/U]:[/B][/COLOR]
+[SIZE="4"][COLOR="red"][B][U]Downloads[/U]:[/B][/COLOR][/SIZE]
 [URL="link_to_rom_download"]ROM[/URL]
 [URL="link_to_recovery_download"]TWRP[/URL]
 
 See [B][U]Additional Info[/U][/B] below for more information regarding GApps and ROM features.
 
-[COLOR="red"][B][U]Installation[/U]:[/B][/COLOR]
+[SIZE="4"][COLOR="red"][B][U]Installation[/U]:[/B][/COLOR][/SIZE]
 add_install_info
 
 # Kernel Source (Must be included) #
-[COLOR="red"][B][U]Kernel Source[/U]:[/B][/COLOR]
-[URL="link_to_kernel_source"]Bluecross Kernel[/URL]
+[SIZE="4"][COLOR="red"][B][U]Kernel Source[/U]:[/B][/COLOR][/SIZE]
+[URL="link_to_kernel_source"]Name_of_Kernel[/URL]
 
 
 
@@ -43,11 +43,11 @@ Additional Info
 
 This rom is not meant to be the most feature filled, nor do we claim it is the fastest, or most streamlined. This is just a fun project for us to release our daily irritability.
 
-[COLOR="red"][B][U]GApps[/U]:[/B][/COLOR]
+[SIZE="4"][COLOR="red"][B][U]GApps[/U]:[/B][/COLOR][/SIZE]
 # Google Apps are included   #
 # Or post flash instructions #
 
-[COLOR="red"][B][U]Features[/U]:[/B][/COLOR]
+[SIZE="4"][COLOR="red"][B][U]Features[/U]:[/B][/COLOR][/SIZE]
 [HIDE]
 [COLOR="red"][B][U]Buttons[/U]:[/B][/COLOR]
 Hide the Navbar (Gestures)
