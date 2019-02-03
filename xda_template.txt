@@ -97,6 +97,10 @@ Clock Options
 Battery Options
 VoLTE Icon
 
+[COLOR="red"][B][U]Weather[/U]:[/B][/COLOR]
+OmniJaws
+Lockscreen Weather
+
 [COLOR="red"][B][U]Misc[/U]:[/B][/COLOR]
 Accent Colors (Fruity Pebbles v2.0)
 Font Service
