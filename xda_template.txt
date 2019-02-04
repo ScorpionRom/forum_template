@@ -86,7 +86,7 @@ Screenshot
 [COLOR="red"][B][U]Quick Settings[/U]:[/B][/COLOR]
 Brightness slider position (top/bottom)
 QS Rows and Columns
-Qucik QS pull down (left/right)
+Quick QS pull down (left/right)
 QS footer (enable/disable)
 
 [COLOR="red"][B][U]Status Bar[/U]:[/B][/COLOR]
@@ -119,6 +119,7 @@ Join us on Telegram for the latest news and discussion: [URL="https://t.me/joinc
 
 [COLOR="red"][B][U]Credits[/U]:[/B][/COLOR]
 @Blackscorpion3
-@NepoRood
+[MENTION=2489052]NYCHitman1[/MENTION] (for the tremendous work on kernel and vendor)
+[MENTION=4433359]spaceman860[/MENTION]
 The hard working teams at DU, GZOSP, Invictrix, and Lineage
 And anyone I forgot...
