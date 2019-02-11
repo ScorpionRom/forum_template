@@ -57,6 +57,7 @@ Navbar button Customization
 Accidental Touch
 Show Arrow keys while typing
 Pulse
+-Blacklist Apps
 
 [COLOR="red"][B][U]Gestures[/U]:[/B][/COLOR]
 AOSP Gestures
@@ -88,13 +89,18 @@ Brightness slider position (top/bottom)
 QS Rows and Columns
 Quick QS pull down (left/right)
 QS footer (enable/disable)
+QS Headers
+
+[COLOR="red"][B][U]Recents[/U]:[/B][/COLOR]
+Oreo Style Recents
+Pie Style Recents
 
 [COLOR="red"][B][U]Status Bar[/U]:[/B][/COLOR]
-Choose Icons
+Choose SB Icons
 Battery Bar
 Brightness Control
 Clock Options
-Battery Options
+Battery Icon Options
 VoLTE Icon
 
 [COLOR="red"][B][U]Weather[/U]:[/B][/COLOR]
