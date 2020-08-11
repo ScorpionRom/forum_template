@@ -14,7 +14,7 @@
 ##########
 
 # ROM Title #
-[ROM][9.0]ScorpionROM v2.2[device_name][device_codename]
+[ROM][10.0]ScorpionROM v3.x[device_name][device_codename]
 
 # Header Image, this should be placed at the top of the page #
 [img]https://scorpionrom.com/img/scorp_logo1.png[\img]
@@ -22,7 +22,6 @@
 
 [SIZE="4"][COLOR="red"][B][U]Downloads[/U]:[/B][/COLOR][/SIZE]
 [URL="link_to_rom_download"]ROM[/URL]
-[URL="link_to_recovery_download"]TWRP[/URL]
 
 See [B][U]Additional Info[/U][/B] below for more information regarding GApps and ROM features.
 
@@ -33,7 +32,8 @@ add_install_info
 [SIZE="4"][COLOR="red"][B][U]Kernel Source[/U]:[/B][/COLOR][/SIZE]
 [URL="link_to_kernel_source"]Name_of_Kernel[/URL]
 
-
+# Contributors to add #
+@NepoRood, @Dabug123
 
 ##########
 # POST 2 #
@@ -44,88 +44,52 @@ Additional Info
 
 This rom is not meant to be the most feature filled, nor do we claim it is the fastest, or most streamlined. This is just a fun project for us to release our daily irritability.
 
-[SIZE="4"][COLOR="red"][B][U]GApps[/U]:[/B][/COLOR][/SIZE]
-# Google Apps are included   #
-# Or post flash instructions #
-
 [SIZE="4"][COLOR="red"][B][U]Features[/U]:[/B][/COLOR][/SIZE]
 [HIDE]
-[COLOR="red"][B][U]Buttons[/U]:[/B][/COLOR]
-Hide the Navbar (Gestures)
-Swap Recent and Back Hardware keys (if supported by device)
-Navbar button Customization
-Accidental Touch
-Show Arrow keys while typing
-Pulse
--Blacklist Apps
 
 [COLOR="red"][B][U]Gestures[/U]:[/B][/COLOR]
-AOSP Gestures
-3 Finger Swipe for Screenshot
-OP Style Navigation Gestures
+* Active Edge (Squeeze)
+* Swipe fingerprint for/to dismiss notifications
+* Activate Torch (long press/double tap power button)
+* System Navigation (gesture nav, 2 button, 3 button)
+* Custom Gesture actions
+* Double tap to check
+* Lift to check
+* Skip music tracks
+* Switch screen off
+* Power menu actions
 
-[COLOR="red"][B][U]Lock Screen[/U]:[/B][/COLOR]
-Shortcuts
-Fingerprint instant unlock
-Face auto unlock
-Lockscreen Charging info
-Full-screen media cover art
 
-[COLOR="red"][B][U]Notifications[/U]:[/B][/COLOR]
-Heads up
--time out
--snooze timer
--blacklist
-Battery light customization (if supported by device)
-In-call Vibration options
+[COLOR="red"][B][U]Display Settings[/U]:[/B][/COLOR]
+* QS panel settings
+ -Quick pulldown
+ -QS background
+ -QS rows and columns
+* Lockscreen settings
+ -Show/Hide lock icon
+ -Now Playing
+ -Visualizer
 
 [COLOR="red"][B][U]Power Menu[/U]:[/B][/COLOR]
-Restart
-Advanced Restart
-Screenshot
+* Advanced Power menu (Restart, Recovery, Bootloader, SystemUI)
+* Screenshot/Partial Screenshot
+* Screen Record
 
-[COLOR="red"][B][U]Quick Settings[/U]:[/B][/COLOR]
-Brightness slider position (top/bottom)
-QS Rows and Columns
-Quick QS pull down (left/right)
-QS footer (enable/disable)
-QS Headers
-
-[COLOR="red"][B][U]Recents[/U]:[/B][/COLOR]
-Oreo Style Recents
-Pie Style Recents
-
-[COLOR="red"][B][U]Status Bar[/U]:[/B][/COLOR]
-Choose SB Icons
-Battery Bar
-Brightness Control
-Clock Options
-Battery Icon Options
-VoLTE Icon
-
-[COLOR="red"][B][U]Weather[/U]:[/B][/COLOR]
-OmniJaws
-Lockscreen Weather
-
-[COLOR="red"][B][U]Misc[/U]:[/B][/COLOR]
-Accent Colors (Fruity Pebbles v2.0)
-Font Service
-QS Tile Styles
-Wake on Charge
-Vibrate on Plug
+[COLOR="red"][B][U]Other Stuff[/U]:[/B][/COLOR]
+* DU-Themes (Accents, Fonts, and Statusbar)
+* Pixel Stand Support
+* Lockscreen Weather
+* Pixel Launcher
+* Gboard
 [/HIDE]
-
-[COLOR="red"][B][U]Working[/U]:[/B][/COLOR]
-# list_working_features
-
-[COLOR="red"][B][U]Not Working[/U]:[/B][/COLOR]
-# list_non_working_features
 
 Join us on Telegram for the latest news and discussion: [URL="https://t.me/joinchat/E4aIi1EAt2_6Wsl5I6UhIQ"]Link[/URL]
 
 [COLOR="red"][B][U]Credits[/U]:[/B][/COLOR]
-@Blackscorpion3
-[MENTION=2489052]NYCHitman1[/MENTION] (for the tremendous work on kernel and vendor)
-[MENTION=4433359]spaceman860[/MENTION]
-The hard working teams at DU, GZOSP, Invictrix, and Lineage
+(In alphabetical order)
+ [MENTION=2095315]ezio84[/MENTION]
+ [MENTION=1289361]Mazda[/MENTION]
+ [MENTION=2489052]NYCHitman1[/MENTION]
+ [MENTION=4939386]Surge1223[/MENTION]
+The hard working teams at ABC and DU
 And anyone I forgot...
